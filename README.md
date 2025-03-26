@@ -12,9 +12,9 @@
 # Angular
 
 # Base de Datos:
-# PostgresSql
+# PostgreSql
 
-# ################################################## ##########
+# ################################################## #
 
 # Como ejecutar el proyecto:
 # ejecutar Backend:
