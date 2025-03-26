@@ -1,0 +1,23 @@
+# Ignorar archivos compilados de Java
+backend/target/
+backend/.mvn/
+backend/mvnw*
+backend/.idea/
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# Ignorar archivos de dependencias de Angular
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/.idea/
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar configuraciones de editores de código
+.vscode/
+.idea/
+
